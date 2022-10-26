@@ -1,0 +1,11 @@
+--blueColor: #0093E5
+--navText: #7D7D7D
+--cathieText:#CBCBCB
+--mainbg:#161820
+
+
+logo-text:Post No Bills Jaffna Light - 300
+
+a- roboto-400
+
+social/catherine walker/your post/ btn1/ btn2-roboto-700
